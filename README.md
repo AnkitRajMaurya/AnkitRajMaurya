@@ -36,6 +36,22 @@
 
 ---
 
+### 🧠 Top Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnkitRajMaurya&layout=compact&theme=github_dark" width="50%" />
+</p>
+
+---
+
+### 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnkitRajMaurya&theme=github-compact" />
+</p>
+
+---
+
 ### 🏆 GitHub Trophies
 
 <p align="center">
