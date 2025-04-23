@@ -11,7 +11,7 @@
 - 🎓 I'm a Diploma student in *Computer Science Engineering*  
 - 🌱 I’m currently learning *Web Development* and exploring *Open Source*
 - ⚡ Fun fact: I love building cool UI and solving coding challenges  
-- 📫 How to reach me: Ankit5242raj@gmail.com
+- 📫 How to reach me: Ankit5242raj1@outlook.com
 
 ---
 
