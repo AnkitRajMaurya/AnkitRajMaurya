@@ -1,8 +1,27 @@
 
+
+---
+
+```markdown
 <h1 align="center">Hi there, I'm Ankit Raj <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   <a href="https://github.com/AnkitRajMaurya">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Computer+Science+Student;Web+Developer+%7C+Open+Source+Enthusiast;Ethical+Hacker+%7C+- 🎓 Diploma student in **Computer Science Engineering**  
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Computer+Science+Student;Web+Developer+%7C+Open+Source+Enthusiast;Ethical+Hacker+%7C+Cybersecurity+Learner;Always+Learning+%7C+Building+Cool+Stuff!" />
+  </a>
+</p>
+
+---
+
+```diff
++ "Code, Debug, Repeat."
+- "Security through obscurity is not security."
+```
+
+---
+
+## 👨‍💻 About Me
+
+- 🎓 Diploma student in **Computer Science Engineering**  
 - 🌱 Currently learning **Web Development**, **Cybersecurity**, and exploring **Open Source**  
 - ⚡ **Fun fact:** I love solving coding challenges and building cool UI designs  
 - 📧 How to reach me: **Ankit5242raj1@outlook.com**
@@ -53,7 +72,15 @@
 ## 🚀 Top Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnkitRajMaurya&layout=compact&theme=github_dark" widthcolumn=6"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnkitRajMaurya&layout=compact&theme=github_dark" width="50%" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AnkitRajMaurya&theme=darkhub&row=1&column=6"/>
 </p>
 
 ---
@@ -62,7 +89,7 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/Ankit5242raj"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:Ankit5242raj1@outlook.com"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/></a>
+  <a href="mailto:Ankit5242raj1@outlook.com"><img src="https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
@@ -79,9 +106,10 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?lines=Hello,+World!+I'm+Ankit!;Ethical+Hacker+and+Developer;Cybersecurity+is+my+passion!&font=Fira%20Code&center=true&width=700&height=45&color=00FF00)](https://git.io/typing-svg)
 
 ### 👀 Visitor Counter
-<p align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=AnkitRajMaurya" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AnkitRajMaurya&style=flat-square&color=brightgreen" alt="Visitor Counter" />
 </p>
 ```
 
 ---
+
