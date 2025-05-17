@@ -1,26 +1,8 @@
 
----
-
-```markdown
 <h1 align="center">Hi there, I'm Ankit Raj <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   <a href="https://github.com/AnkitRajMaurya">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Computer+Science+Student;Web+Developer+%7C+Open+Source+Enthusiast;Ethical+Hacker+%7C+Cybersecurity+Learner;Always+Learning+%7C+Building+Cool+Stuff!" />
-  </a>
-</p>
-
----
-
-```diff
-+ "Code, Debug, Repeat."
-- "Security through obscurity is not security."
-```
-
----
-
-## 👨‍💻 About Me
-
-- 🎓 Diploma student in **Computer Science Engineering**  
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Computer+Science+Student;Web+Developer+%7C+Open+Source+Enthusiast;Ethical+Hacker+%7C+- 🎓 Diploma student in **Computer Science Engineering**  
 - 🌱 Currently learning **Web Development**, **Cybersecurity**, and exploring **Open Source**  
 - ⚡ **Fun fact:** I love solving coding challenges and building cool UI designs  
 - 📧 How to reach me: **Ankit5242raj1@outlook.com**
@@ -71,15 +53,7 @@
 ## 🚀 Top Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username width="50%" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AnkitRajMaurya&theme=darkhub&row=1&column=6"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnkitRajMaurya&layout=compact&theme=github_dark" widthcolumn=6"/>
 </p>
 
 ---
@@ -111,11 +85,3 @@
 ```
 
 ---
-
-### Instructions:
-1. Create a **new repository** with the name **`AnkitRajMaurya`**.
-2. Add this code in a file named `README.md`.
-3. Commit and push the file to your repository.
-4. You are all set! Your GitHub profile will now show this awesome hacker-style design.
-
-Let me know if you need any further help! 🚀
