@@ -1,78 +1,57 @@
+<!-- GITHUB PROFILE README.md -->
 
-
----
-<!--
-```markdown
-<h1 align="center">Hi there, I'm Ankit Raj <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<p align="center">
-  <a href="https://github.com/AnkitRajMaurya">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Computer+Science+Student;Web+Developer+%7C+Open+Source+Enthusiast;Ethical+Hacker+%7C+Cybersecurity+Learner;Always+Learning+%7C+Building+Cool+Stuff!" />
-  </a>
-</p>
-
----
-
-```diff
-+ "Code, Debug, Repeat."
-- "Security through obscurity is not security."
-```
-
---- -->
-
-## 👨‍💻 About Me
-
-- 🎓 Diploma student in **Computer Science Engineering**  
-- 🌱 Currently learning **Web Development**, **Cybersecurity**, and exploring **Open Source**  
-- ⚡ **Fun fact:** I love solving coding challenges and building cool UI designs  
-- 📧 How to reach me: **Ankit5242raj1@outlook.com**
-
----
-
-## 🛠️ Tools of the Trade
-
-### 👾 Programming & Markup Languages:
-<p align="left"> 
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-</p>
-
-### 🛡️ Dev Tools:
-<p align="left"> 
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/>
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-blue?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-</p>
-
-### 💻 OS & Platforms:
-<p align="left">
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white"/>
-</p>
-
----
-
-## 📊 GitHub Stats:
+<h1 align="center">Hi 👋, I'm Ankit Raj Maurya</h1>
+<h3 align="center">🚀 Developer | 🌐 Web & App Crafter | 🧠 Lifelong Learner</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnkitRajMaurya&show_icons=true&theme=github_dark" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=AnkitRajMaurya&theme=github-dark" width="48%"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Web+Developer;Flutter+App+Builder;Open+Source+Contributor;Tech+Explorer+%F0%9F%9A%80&center=true&width=440&height=45&color=3f37c9&vCenter=true&size=22">
+</p>
+
+---
+
+## 🚀 About Me
+
+- 🎓 **Student** | Diploma in Computer Science @ NRI Institute (2024–2027)
+- 🧑‍💻 **Intern** @ Tata Power Skill Development Institute – Web Dev Role
+- 🛠️ I craft websites, clone UIs, build real-time apps, and love solving problems!
+- 🛍️ Freelance developer: Websites, UIs, and client projects
+- 🌱 Currently exploring **React Native, Flutter**, and **Backend APIs**
+- 🧠 Lifelong learner, open to collaborations and challenges
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white)
+
+### 🧩 Frameworks & Libraries
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
+
+### 🧰 Tools & Platforms
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AnkitRajMaurya&show_icons=true&theme=tokyonight&count_private=true" height="180px">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnkitRajMaurya&theme=tokyonight" height="180px">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnkitRajMaurya&theme=github-compact" />
-</p>
-
----
-
-## 🚀 Top Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnkitRajMaurya&layout=compact&theme=github_dark" width="50%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnkitRajMaurya&theme=monokai" />
 </p>
 
 ---
@@ -80,36 +59,53 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AnkitRajMaurya&theme=darkhub&row=1&column=6"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=AnkitRajMaurya&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4">
 </p>
 
 ---
 
-## 🔗 Connect with Me:
+## 📌 Featured Projects
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/Ankit5242raj"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:Ankit5242raj1@outlook.com"><img src="https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
+| Project Name | Tech Stack | Description | Demo |
+|--------------|------------|-------------|------|
+| **Portfolio Website** | HTML, CSS, JS | My personal portfolio | [Live Demo](https://ankitrajmaurya.github.io/Portfolio) |
+| **Weather App** | React, API | Weather forecast using OpenWeather API | Coming Soon |
+| **Nalayak Calculator** | JS, HTML, CSS | Fun quiz-based certificate generator | Coming Soon |
 
 ---
 
-## 🛠️ Dynamic Features:
+## ✨ Fun Facts
 
-### 🧠 Hacker Quotes
-```markdown
-> “Stay hungry, stay foolish.” – Steve Jobs  
-> “Hack the planet!” – Hackers Movie  
-```
+- 🕹 I break things just to fix them better  
+- 🧠 I believe in “Learn by Doing”  
+- ✍️ I occasionally write technical articles and guides  
+- 🗺 Dream: Travel the world while coding from a beach 🏖️  
 
-### 🔥 Typing Animation
-[![Typing SVG](https://readme-typing-svg.demolab.com?lines=Hello,+World!+I'm+Ankit!;Ethical+Hacker+and+Developer;Cybersecurity+is+my+passion!&font=Fira%20Code&center=true&width=700&height=45&color=00FF00)](https://git.io/typing-svg)
+---
 
-### 👀 Visitor Counter
+## 📫 Connect With Me
+
+- 📧 [ankit5242raj1@outlook.com](mailto:ankit5242raj1@outlook.com)  
+- 🌍 [Portfolio](https://ankitrajmaurya.github.io/Portfolio/)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/your-link)  
+- 📱 WhatsApp/Phone: +91 XXXXXXXXXX  
+
+---
+
+## 💬 Quote of the Day
+
+> "The best way to predict the future is to create it." – *Peter Drucker*
+
+---
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AnkitRajMaurya&style=flat-square&color=brightgreen" alt="Visitor Counter" />
+  <img src="https://komarev.com/ghpvc/?username=AnkitRajMaurya&label=Profile%20views&color=blue&style=flat" alt="profile views" />
 </p>
-```
 
 ---
 
+<!-- Optional Easter Egg -->
+<details>
+  <summary>🧠 Developer Secret Zone</summary>
+  🚧 Work in progress... Stay tuned for secret projects and experiments!
+</details>
