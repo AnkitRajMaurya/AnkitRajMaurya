@@ -1,111 +1,23 @@
-<!-- GITHUB PROFILE README.md -->
+<!-- 👑 Ankit Raj Maurya – Colorful Developer README -->
 
-<h1 align="center">Hi 👋, I'm Ankit Raj Maurya</h1>
-<h3 align="center">🚀 Developer | 🌐 Web & App Crafter | 🧠 Lifelong Learner</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=F72585&center=true&vCenter=true&width=435&lines=Hi+I'm+Ankit+Raj+Maurya!;Flutter+%7C+React+%7C+Node+Dev;Creative+%F0%9F%92%A1+Problem+Solver+%F0%9F%94%AB;Let's+build+something+cool+%F0%9F%92%BB" alt="Typing animation" />
+</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Web+Developer;Flutter+App+Builder;Open+Source+Contributor;Tech+Explorer+%F0%9F%9A%80&center=true&width=440&height=45&color=3f37c9&vCenter=true&size=22">
+  <img src="https://img.shields.io/badge/-Full%20Stack%20Web%20Developer-%23f72585?style=for-the-badge&logo=JavaScript&logoColor=white">
+  <img src="https://img.shields.io/badge/-Flutter%20App%20Developer-%234cc9f0?style=for-the-badge&logo=flutter&logoColor=white">
+  <img src="https://img.shields.io/badge/-Open%20Source%20Contributor-%236a4c93?style=for-the-badge&logo=github&logoColor=white">
 </p>
 
 ---
 
-## 🚀 About Me
+## 🎨 Who is Ankit?
 
-- 🎓 **Student** | Diploma in Computer Science @ NRI Institute (2024–2027)
-- 🧑‍💻 **Intern** @ Tata Power Skill Development Institute – Web Dev Role
-- 🛠️ I craft websites, clone UIs, build real-time apps, and love solving problems!
-- 🛍️ Freelance developer: Websites, UIs, and client projects
-- 🌱 Currently exploring **React Native, Flutter**, and **Backend APIs**
-- 🧠 Lifelong learner, open to collaborations and challenges
-
----
-
-## 🛠️ Tech Stack
-
-### 💻 Languages
-![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white)
-
-### 🧩 Frameworks & Libraries
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
-
-### 🧰 Tools & Platforms
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnkitRajMaurya&show_icons=true&theme=tokyonight&count_private=true" height="180px">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnkitRajMaurya&theme=tokyonight" height="180px">
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnkitRajMaurya&theme=monokai" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AnkitRajMaurya&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4">
-</p>
-
----
-
-## 📌 Featured Projects
-
-| Project Name | Tech Stack | Description | Demo |
-|--------------|------------|-------------|------|
-| **Portfolio Website** | HTML, CSS, JS | My personal portfolio | [Live Demo](https://ankitrajmaurya.github.io/Portfolio) |
-| **Weather App** | React, API | Weather forecast using OpenWeather API | Coming Soon |
-| **Nalayak Calculator** | JS, HTML, CSS | Fun quiz-based certificate generator | Coming Soon |
-
----
-
-## ✨ Fun Facts
-
-- 🕹 I break things just to fix them better  
-- 🧠 I believe in “Learn by Doing”  
-- ✍️ I occasionally write technical articles and guides  
-- 🗺 Dream: Travel the world while coding from a beach 🏖️  
-
----
-
-## 📫 Connect With Me
-
-- 📧 [ankit5242raj1@outlook.com](mailto:ankit5242raj1@outlook.com)  
-- 🌍 [Portfolio](https://ankitrajmaurya.github.io/Portfolio/)  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/your-link)  
-- 📱 WhatsApp/Phone: +91 XXXXXXXXXX  
-
----
-
-## 💬 Quote of the Day
-
-> "The best way to predict the future is to create it." – *Peter Drucker*
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AnkitRajMaurya&label=Profile%20views&color=blue&style=flat" alt="profile views" />
-</p>
-
----
-
-<!-- Optional Easter Egg -->
-<details>
-  <summary>🧠 Developer Secret Zone</summary>
-  🚧 Work in progress... Stay tuned for secret projects and experiments!
-</details>
+```javascript
+const ankit = {
+  title: "💡 Creative Developer from India 🇮🇳",
+  skills: ["React", "Flutter", "Node.js", "MongoDB", "Firebase"],
+  qualities: ["Fast Learner", "Creative Thinker", "Code Lover", "UI Magician 🎨"],
+  goal: "To build tools, apps, and ideas that make the world a little better 💻🌍"
+};
