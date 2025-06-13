@@ -1,13 +1,16 @@
-<!-- Vibrant, Modern, and Honest GitHub Profile README for Ankit Raj Maurya -->
+<!--
+Ankit Raj Maurya | Vibrant, Modern, Honest GitHub Profile README
+Edit project links, social handles, and roadmap as you grow!
+-->
 
-<!-- HEADER ANIMATION -->
+<!-- HEADER WAVES -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffc3,100:0081fa&height=120&section=header&text=Hey,%20I'm%20Ankit%20Raj!&fontAlign=50&fontColor=ffffff&fontSize=45&animation=twinkling"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffc3,100:0081fa&height=110&section=header&text=Hey%20👋%20I'm%20Ankit%20Raj!&fontAlign=50&fontColor=ffffff&fontSize=40&animation=twinkling"/>
 </p>
 
 <!-- HERO & TYPING ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&pause=1000&color=00FFC3&vCenter=true&multiline=true&width=700&height=60&lines=Frontend+React+Dev+%7C+Node.js+Learner;UI%2FUX+Lover+%7C+CS+Engineer;Building+Fun+and+Modern+Web+Experiences;Let's+Connect+and+Grow+Together!"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=29&duration=2500&pause=800&color=00FFC3&center=true&vCenter=true&width=650&lines=React%20%7C%20Next.js%20%7C%20Tailwind%20Frontender;Node.js%20%7C%20MongoDB%20Backend;Modern%20UI%20%26%20Web%20Lover;CS%20Engineer%20%7C%20Always%20Learning;Let's%20Build%20Something%20Awesome!"/>
 </p>
 
 <!-- PROFILE BADGES -->
@@ -22,5 +25,5 @@
 ## 🌟 About Me
 
 ```diff
-+ Dreamer. Coder. Designer.
-- I believe in making the web beautiful and useful!
++ Creative Problem-Solver | Modern Web Dev | UI/UX Explorer
+- Making the web beautiful, functional, and fun!
