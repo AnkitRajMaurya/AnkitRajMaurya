@@ -12,7 +12,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AnkitRajMaurya&style=for-the-badge&color=00FFD0" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/AnkitRajMaurya?style=for-the-badge&color=F7B801" alt="Followers" />
+  <img src="50K" alt="Followers" />
   <img src="https://img.shields.io/github/stars/AnkitRajMaurya?style=for-the-badge&color=F13C20" alt="Stars" />
 </p>
 
