@@ -1,154 +1,121 @@
-<!-- Profile README for Ankit Raj Maurya -->
-<!-- Designed to be vibrant, honest, and visually stunning! -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:111111,100:00FFD0&height=250&text=Hey,%20I'm%20Ankit%20Raj%20👋&fontAlign=50&fontAlignY=40&fontSize=55&desc=Frontend%20Developer%20%7C%20UI%2FUX%20Enthusiast%20%7C%20Lifelong%20Learner&descAlignY=62&descAlign=50" alt="Header Banner"/>
+</div>
 
-<h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="38">
-  Hey there, I'm <span style="color:#00FFD0">Ankit Raj</span>
-</h1>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FFD0&center=true&vCenter=true&width=550&lines=Building+pixel-perfect+interfaces...;Turning+ideas+into+interactive+experiences.;Learning+MERN+stack+and+beyond!;Let's+connect+and+create+something+amazing!"/>
+</div>
+
+---
+
+<table width="100%">
+  <tr>
+    <td width="65%">
+      <h2 align="left">🚀 About Me & What I Do</h2>
+      <p align="left">
+        Hey! I'm a Computer Science student with a deep passion for frontend development and creating user experiences that are both beautiful and intuitive. I thrive on bringing ideas to life in the browser and I'm always excited to learn new technologies to build better, faster, and more dynamic web applications.
+      </p>
+      <ul>
+        <li>🎓 Studying <strong>Computer Science Engineering</strong>.</li>
+        <li>💻 Building responsive and dynamic web apps with <strong>React & Next.js</strong>.</li>
+        <li>🌱 Currently diving deep into the <strong>MERN stack</strong> (MongoDB, Express, React, Node.js).</li>
+        <li>🎨 Passionate about clean UI, smooth animations, and great user experiences.</li>
+        <li>📫 Let's connect! Reach out to me at: <strong>Ankit5242raj1@outlook.com</strong></li>
+      </ul>
+    </td>
+    <td width="35%" align="center">
+      <h2>🔗 Connect With Me</h2>
+      <a href="https://www.linkedin.com/in/Ankit5242raj"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+      <a href="https://twitter.com/ankit5242raj"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
+      <a href="https://dev.to/ankitrajmaurya"><img src="https://img.shields.io/badge/DEV.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="DEV.to"/></a>
+      <a href="mailto:Ankit5242raj1@outlook.com"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email"/></a>
+      <a href="https://t.me/Ankit5242raj"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
+      <hr>
+      <h3>🔥 Visitor Counter</h3>
+      <img src="https://komarev.com/ghpvc/?username=AnkitRajMaurya&style=for-the-badge&color=00FFD0" alt="Profile Views"/>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 💻 My Tech Stack & Tools
+
+<details>
+  <summary><strong>🌐 Frontend Development</strong></summary>
+  <br>
+  <p align="left">
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
+  </p>
+</details>
+
+<details>
+  <summary><strong>⚙️ Backend & Database</strong></summary>
+  <br>
+  <p align="left">
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  </p>
+</details>
+
+<details>
+  <summary><strong>🛠️ Tools & Platforms</strong></summary>
+  <br>
+  <p align="left">
+    <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </p>
+</details>
+
+---
+
+## 🎯 Current Focus & 2025 Goals
+
+My goal is to transition from a student to a full-fledged Fullstack Developer. Here's my roadmap:
+
+- [👨‍💻] **Master Fullstack:** Build and deploy a complete MERN stack application from scratch.
+- [🚀] **Contribute to Open Source:** Find a project I'm passionate about and make meaningful contributions.
+- [🤝] **Collaborate:** Participate in a hackathon or a team project to build something cool.
+- [✅] **Portfolio Launch:** Develop and launch a personal portfolio I'm proud of using React & Tailwind.
+
+---
+
+## 📊 My GitHub Activity & Stats
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=27&duration=2500&pause=800&color=00FFD0&center=true&vCenter=true&width=650&lines=Frontend+React+Developer+%7C+CS+Engineer;Learning+Node.js+and+Next.js;MongoDB+Enthusiast+%7C+UI%2FUX+Lover;Building+Ideas+One+Pixel+at+a+Time!;Let%27s+Connect+and+Grow+Together!"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AnkitRajMaurya&show_icons=true&theme=tokyonight&border_radius=12&hide_border=true" height="185" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=AnkitRajMaurya&theme=tokyonight_duo&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="185" alt="GitHub Streak"/>
 </p>
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AnkitRajMaurya&style=for-the-badge&color=00FFD0" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/AnkitRajMaurya?style=for-the-badge&color=F7B801" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/AnkitRajMaurya?style=for-the-badge&color=F13C20" alt="Stars" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnkitRajMaurya&layout=compact&theme=tokyonight&border_radius=12&hide_border=true" width="45%" alt="Top Languages"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnkitRajMaurya&theme=react-dark&area=true&hide_border=true" alt="Activity Graph"/>
 </p>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FFD0&height=100&section=header&text=Welcome%20to%20my%20GitHub!&fontAlign=50&fontColor=1A1A1A&fontSize=35&animation=twinkling"/>
+  <img src="https://media3.giphy.com/media/2IudUHdI0lbe0/giphy.gif?cid=ecf05e47a8wsy20a8k1v5bsso3z3cvo0mf8k94p6bf4sslsd&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100px" alt="code-gif">
+
+  <h3>✨ Fun Stuff ✨</h3>
+
+  <a href="https://open.spotify.com/user/YOUR_SPOTIFY_USER_ID"> <img src="https://novatorem-seven.vercel.app/api/spotify" alt="Spotify Now Playing" />
+  </a>
+
+  <details>
+    <summary>😄 <b>Random Dev Joke</b></summary>
+    <br>
+    <img src="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%231A1B27&textColor=%2379d7ff" alt="Jokes Card" />
+  </details>
 </div>
-
----
-
-## 🌟 About Me
-
-- 🎓 **Diploma Student** in <b>Computer Science Engineering</b>
-- 🌐 **Frontend:** React.js, HTML, CSS, JS, Tailwind CSS
-- 🛠️ **Backend:** Node.js, Next.js, a little Java
-- 🍃 **Database:** MongoDB
-- ⚙️ **Tools:** VS Code, Git, GitHub
-- 🚀 **Currently:**  
-  - Improving in React/Next.js & fullstack projects
-  - Exploring cool UI/UX and web animations
-- 💡 **Fun Fact:** I love making websites that look and FEEL amazing!
-- 📫 **Contact:** Ankit5242raj1@outlook.com
-
----
-
-## ✨ My Toolbox
-
-### 💻 Languages & Libraries
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React-00D8FF?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-</p>
-
-### ⚙️ Tools & Platforms
-<p align="center">
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</p>
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnkitRajMaurya&show_icons=true&theme=tokyonight&border_radius=12" height="185"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=AnkitRajMaurya&theme=tokyonight_duo&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="185"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnkitRajMaurya&theme=react-dark&area=true&hide_border=true" />
-</p>
-
----
-
-## 🚀 Top Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnkitRajMaurya&layout=compact&theme=tokyonight&border_radius=12" width="50%" />
-</p>
-
----
-
-## 🌈 Connect With Me!
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/Ankit5242raj">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:Ankit5242raj1@outlook.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://twitter.com/ankit5242raj">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-  </a>
-  <a href="https://dev.to/ankitrajmaurya">
-    <img src="https://img.shields.io/badge/DEV.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/>
-  </a>
-  <a href="https://t.me/Ankit5242raj">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
-  </a>
-</p>
-
----
-
-## 🎯 Goals & Fun Facts
-
-- 🧠 **Learning Path:** React.js, Next.js, Node.js, MongoDB
-- 🔥 **Favourite Stack:** MERN (MongoDB, Express, React, Node)
-- 🎨 **Design Hobby:** UI/UX, Animations, Microinteractions
-- 🌱 **Growth Mindset:** Always ready to learn & build
-
----
-
-## 🗺️ 2025 Roadmap
-
-- [x] Develop a personal portfolio using React & Tailwind
-- [ ] Make a fullstack app using Next.js & MongoDB
-- [ ] Contribute to open source
-- [ ] Try out a hackathon!
-
----
-
-## 🔥 Dynamic Features
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?lines=Hello,+World!+I'm+Ankit!;React+Frontend+Dev;UI+Animation+Lover;Let%27s+Build+Something+Great!&font=Fira%20Code&center=true&width=700&height=45&color=00FFD0"/>
-</p>
-
-### 👀 Visitor Counter
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AnkitRajMaurya&style=flat-square&color=00FFD0" alt="Visitor Counter" />
-</p>
-
----
-
-## 💬 Quotes & Motivation
-
-> “Code, Create, Repeat.”  
-> “UI without UX is like a joke without a punchline.”  
-> “Stay hungry, stay foolish.” – Steve Jobs
-
----
-
-<details>
-  <summary>⚡ <b>Random Dev Joke</b></summary>
-  <br>
-  <img src="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%230D1117&textColor=%23fff" alt="Jokes Card" />
-</details>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00FFD0&height=100&section=footer"/>
