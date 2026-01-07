@@ -1,18 +1,18 @@
 ﻿<!--  -->
-<!--       ULTRA COLORFUL UI/UX DESIGNER PORTFOLIO - FULLY ANIMATED & INTERACTIVE     -->
+<!--       COLORFUL FULL-STACK DEVELOPER PORTFOLIO - FULLY ANIMATED & INTERACTIVE     -->
 <!--  -->
 
 <div align="center">
 
 <!--  SUPER COLORFUL ANIMATED HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF1493,15:FF69B4,30:FFB6C1,45:87CEEB,60:00CED1,75:00FF7F,90:FFD700,100:FF8C00&height=400&text=%20ANKIT%20RAJ&fontSize=100&fontColor=ffffff&fontAlign=50&fontAlignY=30&desc=UI%2FUX%20Designer%20%7C%20Full%20Stack%20Developer%20%7C%20Creative%20Technologist&descAlign=50&descAlignY=80&animation=blinking&reversal=false" alt="Colorful Header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF1493,15:FF69B4,30:FFB6C1,45:87CEEB,60:00CED1,75:00FF7F,90:FFD700,100:FF8C00&height=400&text=%20ANKIT%20RAJ&fontSize=100&fontColor=ffffff&fontAlign=50&fontAlignY=30&desc=Full%20Stack%20Developer%20%7C%20Web%20Enthusiast%20%7C%20Tech%20Innovator&descAlign=50&descAlignY=80&animation=blinking&reversal=false" alt="Colorful Header"/>
 
 </div>
 
 <!--  ULTRA DYNAMIC COLORFUL TYPING -->
 <div align="center">
 
-<img alt="Dynamic Colorful Typing" src="https://readme-typing-svg.demolab.com?font=Fredoka&size=36&duration=1200&pause=300&color=FF1493&center=true&vCenter=true&width=1000&height=80&lines=%20Designing%20Beautiful%20Digital%20Experiences;%20Creating%20Pixel-Perfect%20Interfaces;%20Making%20Ideas%20Come%20to%20Life;%20Building%20Gorgeous%20Web%20%26%20Mobile%20Apps;%20Let's%20Create%20Magic%20Together!" />
+<img alt="Dynamic Colorful Typing" src="https://readme-typing-svg.demolab.com?font=Fredoka&size=36&duration=1200&pause=300&color=FF1493&center=true&vCenter=true&width=1000&height=80&lines=Building%20Scalable%20Web%20Applications;Writing%20Clean%20and%20Efficient%20Code;Creating%20Amazing%20User%20Experiences;Full%20Stack%20Developer%20Journey;Let's%20Build%20Something%20Great!" />
 
 </div>
 
@@ -25,92 +25,71 @@
 
 |  **Status** |  **Specialty** |  **Base** |  **Role** |  **Mood** |
 |:-:|:-:|:-:|:-:|:-:|
-| ** Active & Creative** | **UI/UX + Dev** | **Muzaffarpur** | **Designer-Developer** | ** Inspired** |
+| ** Active & Coding** | **Full Stack Dev** | **Muzaffarpur** | **Developer** | ** Energized** |
 
 <br/>
 
-###  **CONNECT WITH MY CREATIVE WORLD**
+###  **CONNECT WITH ME**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=FF1493)](https://linkedin.com/in/AnkitRajMaurya)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=00CED1)](https://github.com/AnkitRajMaurya)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=87CEEB)](https://twitter.com/ankit5242raj)
 [![Instagram](https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white&labelColor=FFB6C1)](https://instagram.com/_ankit_raj_maurya)
-[![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white&labelColor=FF69B4)](https://dribbble.com)
 [![Email](https://img.shields.io/badge/Email-Me-FF8C00?style=for-the-badge&logo=gmail&logoColor=white&labelColor=FFD700)](mailto:ankit5242raj1@outlook.com)
 
 </div>
 
 ---
 
-##  **ABOUT THIS CREATIVE SOUL**
+##  **ABOUT ME**
 
 <div align="center">
 
-###  **The Story**
+###  **The Developer's Journey**
 
-> ### *Hi! I'm Ankit, a UI/UX Designer & Full-Stack Developer from Muzaffarpur, Bihar* 
+> ### *Hi! I'm Ankit, a Full-Stack Developer from Muzaffarpur, Bihar* 
 >
-> **I design dreams and code reality.**
+> **I write code that matters.**
 >
-> I'm passionate about creating **stunning, intuitive digital experiences** that blend:
-> -  **Beautiful Design** - Pixel-perfect, modern, and engaging
-> -  **Clean Code** - Efficient, scalable, and maintainable
-> -  **User Experience** - Delightful interactions and smooth animations
-> -  **Innovation** - Pushing boundaries and creating something unique
+> I'm passionate about creating **robust, scalable, and performant applications** with:
+> -  **Clean Code** - Readable, maintainable, and well-structured
+> -  **Full-Stack Development** - From database to frontend
+> -  **Problem Solving** - Turning ideas into working solutions
+> -  **Continuous Learning** - Staying updated with latest tech
+> -  **User-Centric Design** - Building apps that users love
 >
-> I believe great design isn't just about aesthetics—it's about **solving problems** and **creating meaningful connections** between users and technology.
+> I believe great software is built on solid foundations, thoughtful architecture, and a commitment to quality.
 
-###  **Design Philosophy**
+###  **Development Philosophy**
 
 |  **Principle** |  **My Belief** |
 |:-:|---|
-| ** Simplicity** | *"Less is more, but nothing should be missing"* |
-| ** Purpose** | *"Every pixel has a reason to exist"* |
-| ** Delight** | *"Design should make people smile"* |
-| ** Innovation** | *"Break conventions, set new trends"* |
-| ** Empathy** | *"Design for people, not for screens"* |
+| ** Clean Code** | *"Code is read more often than it's written"* |
+| ** Scalability** | *"Build for today, prepare for tomorrow"* |
+| ** Reliability** | *"Bugs are bugs, reliability is a feature"* |
+| ** Performance** | *"Speed matters, optimization is essential"* |
+| ** Testing** | *"Test early, test often, test thoroughly"* |
 
 </div>
 
 ---
 
-##  **DESIGN & DEVELOPMENT ARSENAL**
+##  **TECH STACK & SKILLS**
 
 <div align="center">
 
-###  **UI/UX DESIGN TOOLS**
+###  **FRONTEND DEVELOPMENT**
 
 `
 
-            DESIGN MASTERY                       
+         MODERN WEB TECHNOLOGIES                  
 
 
-    Figma               Adobe XD
-    Adobe Illustrator   Adobe InDesign
-   Adobe Photoshop     Adobe After Effects
-    Sketch              UI/UX Principles
-   Animation           Prototyping
-`
-
-[![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)](https://figma.com)
-[![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-FF61F6?style=flat-square&logo=adobe&logoColor=white)](https://adobe.com/products/xd)
-[![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat-square&logo=adobe&logoColor=white)](https://adobe.com)
-[![Illustrator](https://img.shields.io/badge/-Illustrator-FF9A00?style=flat-square&logo=adobe&logoColor=white)](https://adobe.com)
-
-<br/><br/>
-
-###  **FRONTEND DEVELOPMENT - DESIGN IMPLEMENTED**
-
-`
-
-       BRINGING DESIGNS TO LIFE                  
-
-
-    React               Framer Motion
-    Next.js             Animations
-   TypeScript          Smooth Transitions
-   HTML5               CSS Mastery
-   Tailwind CSS        Bootstrap
+    React               Next.js
+    TypeScript          HTML5
+   CSS3                Tailwind CSS
+   JavaScript          Responsive Design
+   Framer Motion       State Management
 `
 
 [![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)](https://react.dev)
@@ -125,30 +104,32 @@
 
 `
 
-        POWERFUL BACKEND SOLUTIONS               
+        POWERFUL SERVER-SIDE SOLUTIONS           
 
 
    Node.js              MongoDB
    Express.js          GraphQL
-   Authentication      Deployment
+   RESTful APIs        Authentication
+   Database Design     Deployment
 `
 
 [![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org)
 [![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)](https://expressjs.com)
 [![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)](https://www.mongodb.com)
+[![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)](https://graphql.org)
 
 <br/><br/>
 
-###  **MOBILE DESIGN & DEVELOPMENT**
+###  **MOBILE DEVELOPMENT**
 
 `
 
-     BEAUTIFUL MOBILE EXPERIENCES                
+     CROSS-PLATFORM MOBILE APPS                 
 
 
-   Flutter             Android
-   Responsive Design   Native Performance
-   Material Design     Custom UI
+   Flutter             React Native
+   Dart                Android
+   iOS Compatible      Material Design
 `
 
 [![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)](https://flutter.dev)
@@ -156,25 +137,26 @@
 
 <br/><br/>
 
-###  **DESIGN PRINCIPLES I MASTER**
+###  **DEVELOPER TOOLS & PRACTICES**
 
 `
 
-      CORE DESIGN COMPETENCIES                   
+      PROFESSIONAL DEVELOPMENT TOOLS             
 
 
-   User Research      Data Visualization
-   UI Components      Micro-interactions
-   Accessibility       Dark Mode Design
-   Motion Design      Design Systems
-   Color Theory        Typography
+   Git & GitHub        Version Control
+   Docker              Containerization
+   REST APIs           API Development
+   Testing             Jest, Unit Tests
+   Linux               Command Line
+   VS Code             Development Environment
 `
 
 </div>
 
 ---
 
-##  **DESIGN PORTFOLIO & CASE STUDIES**
+##  **PROJECTS & PORTFOLIO**
 
 <div align="center">
 
@@ -182,19 +164,19 @@
 
 `
 
-   AWARD-WINNING MODERN PORTFOLIO                 
-   Fully Responsive   Animated   Lightning Fast
+   MODERN RESPONSIVE PORTFOLIO                   
+   Fully Responsive   Interactive   Performance
 
 `
 
-> A **stunning portfolio** showcasing modern web design principles with smooth animations, perfect typography, and an intuitive user experience.
+> A **professional portfolio website** built with modern web technologies showcasing projects, skills, and experience.
 
-**Design Features:**
--  **Custom Design System** - Cohesive colors, typography, spacing
--  **Smooth Animations** - Page transitions, scroll effects
--  **Responsive Design** - Perfect on all devices
--  **Dark & Light Mode** - User preference respected
--  **Accessible** - WCAG 2.1 AA compliant
+**Features:**
+-  **Responsive Design** - Works seamlessly across all devices
+-  **Interactive Elements** - Smooth animations and transitions
+-  **Fast Performance** - Optimized for speed
+-  **Clean Architecture** - Well-organized codebase
+-  **SEO Optimized** - Discoverable on search engines
 
 **Tech Stack:**
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://html.spec.whatwg.org/)
@@ -202,27 +184,27 @@
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://javascript.com)
 [![Responsive](https://img.shields.io/badge/Responsive%20Design-90EE90?style=flat-square&logo=responsive&logoColor=black)](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Responsive_Design)
 
-[ GitHub](https://github.com/AnkitRajMaurya/Portfolio)  [ Live Demo](https://ankitrajmaurya.github.io/Portfolio/)  [ Design Assets](https://figma.com)
+[ GitHub](https://github.com/AnkitRajMaurya/Portfolio)  [ Live Demo](https://ankitrajmaurya.github.io/Portfolio/)
 
 <br/><br/>
 
-###  **PROJECT 2: WEATHER APP - BEAUTIFUL UI**
+###  **PROJECT 2: WEATHER APP**
 
 `
 
-   GORGEOUS WEATHER INTERFACE                     
-   Vibrant Colors   Smooth Interactions  Live
+   REAL-TIME WEATHER APPLICATION                 
+   Live Data   Responsive   API Integration
 
 `
 
-> A **beautifully designed weather app** with stunning UI/UX, real-time data, and delightful micro-interactions.
+> A **fully functional weather application** with real-time data, smooth interactions, and intuitive interface.
 
-**Design Highlights:**
--  **Vibrant Color Palette** - Changes based on weather
--  **Micro-animations** - Smooth transitions and effects
--  **Clear Information Hierarchy** - Important data first
--  **Beautiful Illustrations** - Custom weather icons
--  **Mobile-First Design** - Touch-friendly interface
+**Features:**
+-  **Live Weather Data** - Real-time updates
+-  **Multiple Locations** - Search and track any city
+-  **Responsive UI** - Beautiful on all screen sizes
+-  **Fast API Integration** - Efficient data fetching
+-  **Error Handling** - Graceful error management
 
 **Tech Stack:**
 [![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)](https://react.dev)
@@ -236,18 +218,18 @@
 
 ---
 
-##  **MY DESIGN PROCESS**
+##  **DEVELOPMENT PROCESS**
 
 <div align="center">
 
 `
 
                                                              
-  1  RESEARCH    2  IDEATE    3  WIREFRAME             
+  1  PLAN    2  DESIGN    3  DEVELOP             
                                                          
-  6  ITERATE    5  TEST    4  DESIGN               
+  6  DEPLOY    5  TEST    4  DEBUG               
                                                              
-       Create  Iterate  Refine  Deliver                   
+       Build  Test  Deploy  Maintain                    
                                                              
 
 `
@@ -256,7 +238,7 @@
 
 ---
 
-##  **GITHUB ANALYTICS & CREATIVE STATS**
+##  **GITHUB ANALYTICS & CONTRIBUTIONS**
 
 <div align="center">
 
@@ -266,15 +248,15 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=AnkitRajMaurya&theme=radical&background=0d1117&ring=FF1493&fire=FFD700&currStreakNum=58a6ff&sideNums=58a6ff&currStreakLabel=FF1493&sideLabels=FF1493&dates=58a6ff&border=FF69B4&date_format=M%20j%5B%2C%20Y%5D" height="250" alt="Streak Stats"/>
 
-###  **Colorful Language Distribution**
+###  **Language Proficiency**
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnkitRajMaurya&layout=compact&theme=radical&bg_color=0d1117&title_color=FF1493&text_color=58a6ff&border_color=FF69B4&border_radius=15&hide_border=false&langs_count=12" width="65%" alt="Top Languages"/>
 
-###  **Contribution Heatmap**
+###  **Contribution Timeline**
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnkitRajMaurya&theme=radical&area=true&bg_color=0d1117&color=FF1493&line=FFD700&point=FF69B4&hide_border=false&line_height=50&radius=16" alt="Activity Graph" width="100%"/>
 
-###  **Achievement Showcase**
+###  **Achievements**
 
 <img src="https://github-profile-trophy.vercel.app/?username=AnkitRajMaurya&theme=radical&no-frame=true&row=2&column=4&margin-w=10&margin-h=10&bg_color=0d1117" alt="GitHub Trophies" width="100%"/>
 
@@ -282,65 +264,45 @@
 
 ---
 
-##  **DESIGN & DEVELOPMENT EXPERTISE**
+##  **DEVELOPER STRENGTHS**
 
 <div align="center">
 
-###  **What Makes Me Different**
+###  **What I Bring to the Table**
 
-|  **Skill** |  **What I Bring** |
+|  **Skill** |  **What I Deliver** |
 |:-:|---|
-|  **UI/UX Designer** | Beautiful, intuitive interfaces |
-|  **Full-Stack Dev** | Design  Reality pipeline |
-|  **Animation Expert** | Smooth, delightful interactions |
-|  **Mobile First** | Apps that look amazing everywhere |
-|  **Accessibility Focus** | Inclusive design for everyone |
-|  **Performance Oriented** | Gorgeous AND fast |
-|  **Problem Solver** | Design thinking in every project |
-|  **Innovator** | Always pushing creative boundaries |
+|  **Full-Stack Development** | End-to-end application development |
+|  **Problem Solving** | Efficient solutions to complex problems |
+|  **Code Quality** | Clean, maintainable, and tested code |
+|  **API Development** | Robust and scalable backend services |
+|  **Responsive Design** | Beautiful interfaces across all devices |
+|  **Performance Optimization** | Fast and efficient applications |
+|  **Version Control** | Professional Git workflow and practices |
+|  **Continuous Improvement** | Always learning and adapting |
 
 </div>
 
 ---
 
-##  **DESIGN SERVICES I OFFER**
-
-<div align="center">
-
-###  **Services**
-
-`
-
-   UI/UX Design         Mobile App Design       
-   Web Design           Interactive Animations  
-    Visual Identity       Typography Design      
-   Responsive Web       User Research          
-   Design Systems       Accessibility Audit    
-
-`
-
-</div>
-
----
-
-##  **LET'S CREATE SOMETHING BEAUTIFUL**
+##  **LET'S BUILD SOMETHING GREAT**
 
 <div align="center">
 
 I'm passionate about:
--  **Creating stunning digital experiences**
--  **Solving real problems with beautiful design**
--  **Building the future of web & mobile**
--  **Collaborating with creative minds**
--  **Sharing knowledge & inspiring others**
--  **Pushing design boundaries**
+-  **Writing quality code**
+-  **Solving real-world problems**
+-  **Building scalable applications**
+-  **Collaborating with talented developers**
+-  **Sharing knowledge and learning from others**
+-  **Contributing to open-source projects**
 
 **Whether you need:**
--  A gorgeous website redesign
--  A complete app design system
--  UI/UX consultation
--  Full-stack development
--  Animation & interaction design
+-  A full-stack web application
+-  Backend API development
+-  Frontend development
+-  Full-stack consulting
+-  Code optimization and refactoring
 
 **Let's work together!** 
 
@@ -365,21 +327,21 @@ I'm passionate about:
 
 ---
 
-##  **SUPPORT MY CREATIVE JOURNEY**
+##  **SUPPORT MY JOURNEY**
 
 <div align="center">
 
-###  **Help Me Create**
+###  **Help Me Grow**
 
-Your support fuels my creativity! Consider:
+Your support means a lot! Consider:
 
--  **Star** my creative projects
--  **Follow** for design inspiration
--  **Collaborate** on amazing ideas
--  **Share** my work with others
--  **Support** my creative mission
+-  **Star** my repositories
+-  **Follow** for updates and projects
+-  **Collaborate** on interesting ideas
+-  **Share** my projects with others
+-  **Contribute** to my open-source work
 
-**Thank you for believing in my vision!** 
+**Thank you for your support!** 
 
 </div>
 
@@ -397,7 +359,6 @@ Your support fuels my creativity! Consider:
 | [ GitHub Repos](https://github.com/AnkitRajMaurya) |
 | [ Twitter](https://twitter.com/ankit5242raj) |
 | [ Instagram](https://instagram.com/_ankit_raj_maurya) |
-| [ Design Work](https://dribbble.com) |
 
 </div>
 
@@ -407,28 +368,28 @@ Your support fuels my creativity! Consider:
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fredoka&size=28&duration=3000&pause=800&color=FF1493&center=true&vCenter=true&width=900&lines=%20Design%20is%20not%20just%20how%20it%20looks;%20It's%20how%20it%20feels%20to%20use;%20Let's%20create%20extraordinary%20experiences;%20Together%20we%20can%20build%20the%20future!" />
+<img src="https://readme-typing-svg.demolab.com?font=Fredoka&size=28&duration=3000&pause=800&color=FF1493&center=true&vCenter=true&width=900&lines=Code%20is%20poetry;Every%20project%20is%20a%20learning%20opportunity;Build%20it%20right%2C%20build%20it%20fast;Let's%20create%20amazing%20applications;" />
 
 <br/><br/>
 
 `
 
                                                                 
-    DESIGN  CODE  INNOVATION  PASSION                   
+    CODE  BUILD  DEPLOY  INNOVATE                   
                                                                 
-              Made with  , , and                         
+              Made with  and  Passion                         
                                                                 
 
 `
 
 <br/>
 
-###  **THE CREATIVE JOURNEY CONTINUES**
+###  **THE CODING JOURNEY CONTINUES**
 
 <img src="https://img.shields.io/badge/Made%20with%20Love--FF1493?style=for-the-badge&labelColor=0d1117&color=FF1493"/>
-<img src="https://img.shields.io/badge/Last%20Updated-January%202025-FFD700?style=for-the-badge&labelColor=0d1117&color=FFD700"/>
-<img src="https://img.shields.io/badge/Version-4.0%20%7C%20Ultra%20Colorful-00CED1?style=for-the-badge&labelColor=0d1117&color=00CED1"/>
-<img src="https://img.shields.io/badge/Status-Always%20Creating-00FF7F?style=for-the-badge&labelColor=0d1117&color=00FF7F"/>
+<img src="https://img.shields.io/badge/Last%20Updated-January%202026-FFD700?style=for-the-badge&labelColor=0d1117&color=FFD700"/>
+<img src="https://img.shields.io/badge/Version-5.0%20%7C%20Full%20Stack%20Focus-00CED1?style=for-the-badge&labelColor=0d1117&color=00CED1"/>
+<img src="https://img.shields.io/badge/Status-Always%20Coding-00FF7F?style=for-the-badge&labelColor=0d1117&color=00FF7F"/>
 
 <br/><br/>
 
