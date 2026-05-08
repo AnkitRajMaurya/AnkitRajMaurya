@@ -34,7 +34,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=FF1493)](https://linkedin.com/in/AnkitRajMaurya)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=00CED1)](https://github.com/AnkitRajMaurya)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=87CEEB)](https://twitter.com/ankit5242raj)
-[![Instagram](https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white&labelColor=FFB6C1)](https://instagram.com/_ankit_raj_maurya)
+[![Instagram](https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white&labelColor=FFB6C1)](https://instagram.com/ankitrajmaurya_)
 [![Email](https://img.shields.io/badge/Email-Me-FF8C00?style=for-the-badge&logo=gmail&logoColor=white&labelColor=FFD700)](mailto:ankit5242raj1@outlook.com)
 
 </div>
@@ -358,7 +358,7 @@ Your support means a lot! Consider:
 | [ LinkedIn Profile](https://linkedin.com/in/AnkitRajMaurya) |
 | [ GitHub Repos](https://github.com/AnkitRajMaurya) |
 | [ Twitter](https://twitter.com/ankit5242raj) |
-| [ Instagram](https://instagram.com/_ankit_raj_maurya) |
+| [ Instagram](https://instagram.com/ankitrajmaurya_) |
 
 </div>
 
