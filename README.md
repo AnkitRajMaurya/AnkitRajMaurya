@@ -184,7 +184,7 @@
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://javascript.com)
 [![Responsive](https://img.shields.io/badge/Responsive%20Design-90EE90?style=flat-square&logo=responsive&logoColor=black)](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Responsive_Design)
 
-[ GitHub](https://github.com/AnkitRajMaurya/Portfolio)  [ Live Demo](https://ankitrajmaurya.github.io/Portfolio/)
+[ GitHub](https://github.com/AnkitRajMaurya/Portfolio)  [ Live Demo](https://ankitrajmaurya.vercel.app/)
 
 <br/><br/>
 
@@ -354,7 +354,7 @@ Your support means a lot! Consider:
 |  **Navigate** |
 |:-:|
 | [ Download Resume](https://drive.google.com/file/d/1359Lhc3l75iBDmdHSWJDFBz4O8sG33MJ/view?usp=drivesdk) |
-| [ View Portfolio](https://ankitrajmaurya.github.io/Portfolio/) |
+| [ View Portfolio](https://ankitrajmaurya.vercel.app/) |
 | [ LinkedIn Profile](https://linkedin.com/in/AnkitRajMaurya) |
 | [ GitHub Repos](https://github.com/AnkitRajMaurya) |
 | [ Twitter](https://twitter.com/ankit5242raj) |
